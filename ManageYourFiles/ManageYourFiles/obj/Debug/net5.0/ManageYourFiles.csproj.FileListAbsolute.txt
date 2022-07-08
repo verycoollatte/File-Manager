@@ -1,0 +1,16 @@
+D:\ManageYourFiles\ManageYourFiles\bin\Debug\net5.0\ManageYourFiles.exe
+D:\ManageYourFiles\ManageYourFiles\bin\Debug\net5.0\ManageYourFiles.deps.json
+D:\ManageYourFiles\ManageYourFiles\bin\Debug\net5.0\ManageYourFiles.runtimeconfig.json
+D:\ManageYourFiles\ManageYourFiles\bin\Debug\net5.0\ManageYourFiles.runtimeconfig.dev.json
+D:\ManageYourFiles\ManageYourFiles\bin\Debug\net5.0\ManageYourFiles.dll
+D:\ManageYourFiles\ManageYourFiles\bin\Debug\net5.0\ref\ManageYourFiles.dll
+D:\ManageYourFiles\ManageYourFiles\bin\Debug\net5.0\ManageYourFiles.pdb
+D:\ManageYourFiles\ManageYourFiles\obj\Debug\net5.0\ManageYourFiles.csproj.AssemblyReference.cache
+D:\ManageYourFiles\ManageYourFiles\obj\Debug\net5.0\ManageYourFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManageYourFiles\ManageYourFiles\obj\Debug\net5.0\ManageYourFiles.AssemblyInfoInputs.cache
+D:\ManageYourFiles\ManageYourFiles\obj\Debug\net5.0\ManageYourFiles.AssemblyInfo.cs
+D:\ManageYourFiles\ManageYourFiles\obj\Debug\net5.0\ManageYourFiles.csproj.CoreCompileInputs.cache
+D:\ManageYourFiles\ManageYourFiles\obj\Debug\net5.0\ManageYourFiles.dll
+D:\ManageYourFiles\ManageYourFiles\obj\Debug\net5.0\ref\ManageYourFiles.dll
+D:\ManageYourFiles\ManageYourFiles\obj\Debug\net5.0\ManageYourFiles.pdb
+D:\ManageYourFiles\ManageYourFiles\obj\Debug\net5.0\ManageYourFiles.genruntimeconfig.cache
